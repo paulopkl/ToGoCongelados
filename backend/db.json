@@ -1,0 +1,32 @@
+{
+  "cardapios": [
+    {
+      "id": 1,
+      "produto": "Feijoada",
+      "descricao": "Contêm Feijão preto com carne seca, bacon, calabresa e lombo, arroz, couve, manteiga e farofa",
+      "valor": 11.99,
+      "imagem": ""
+    },
+    {
+      "id": 2,
+      "produto": "Marmita (P)",
+      "descricao": "Marmita com tamanho pequeno, contêm: Arroz, feijão, Filé, farinha, e alface.",
+      "valor": 9.99,
+      "imagem": ""
+    },
+    {
+      "id": 3,
+      "produto": "Marmita (M)",
+      "descricao": "Marmita de tamanho médio, contêm: Arroz, feijão preto, Frango grelhado, farofa, tomate e alface.",
+      "valor": 14.9,
+      "imagem": ""
+    },
+    {
+      "id": 4,
+      "produto": "Marmita (G)",
+      "descricao": "Marmita de tamanho Grande, contêm: Arroz, feijão preto, Frango grelhado, farofa, tomate e alface, baccon, ovo, ervilha e milho.",
+      "valor": 18.9,
+      "imagem": ""
+    }
+  ]
+}

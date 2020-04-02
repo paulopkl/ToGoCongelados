@@ -1,0 +1,51 @@
+header.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #fff;
+    padding: 0px 8px;
+    overflow: hidden;
+    white-space: nowrap; /*  */
+    box-shadow: var(--shadow);
+}
+
+header.header h1 {
+    font-size: 1.8em;
+}
+
+header.header div.title {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header.header div.title p {
+    margin-bottom: 0;
+}
+
+header .midias {
+    display: flex;
+    font-size: 1.3rem;
+}
+
+header .midias button {
+    margin-left: 10px;
+}
+
+.wpp-icone, .wpp-icone + span {
+    color: #086820;
+}
+
+.face-icone, .face-icone + span {
+    color: midnightblue;
+}
+
+.twit-icone, .twit-icone + span {
+    color: rgb(15, 121, 116);
+}
+
+.wpp-icone, .face-icone, .twit-icone {
+    font-weight: 600;
+    font-size: 1.2rem;
+    margin-right: 10px;
+}
